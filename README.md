@@ -2,8 +2,8 @@
 # Book Store E-Commerce Website
 
 ## DEMO
-[CLICK HERE](https://bookstore-evan.azurewebsites.net)
-Admin AC: admin@gmail.com, password: Ad123*
+- [CLICK HERE](https://bookstore-evan.azurewebsites.net)
+- Admin AC: admin@gmail.com, password: Ad123*
 ## Overview
 This repository contains a book store e-commerce web application developed as part of an extensive learning course on ASP.NET Core MVC and Razor. The application demonstrates a wide range of functionalities and integrates several advanced features, making it an ideal project for those looking to understand the intricacies of ASP.NET Core.
 
